@@ -28,6 +28,6 @@
 
 <p align="left">
   <a href="https://instagram.com/mustafa.sqhin" alt="Linkedin">
-    <img src="https://static.cdninstagram.com/rsrc.php/v3/yV/r/ftfgD2tsNT7.png" size="20px"/>
+    <img src="https://static.cdninstagram.com/rsrc.php/v3/yV/r/ftfgD2tsNT7.png" style="width:20px;"/>
   </a>
 </p>
