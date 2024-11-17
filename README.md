@@ -27,5 +27,7 @@
 ## 🌐 &nbsp;Social Links
 
 <p align="left">
-  <a href="https://instagram.com/mustafa.sqhin" alt="Linkedin"></a>
+  <a href="https://instagram.com/mustafa.sqhin" alt="Linkedin">
+    <img src="https://static.cdninstagram.com/rsrc.php/v3/yV/r/ftfgD2tsNT7.png"/>
+  </a>
 </p>
