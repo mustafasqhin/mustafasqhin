@@ -6,7 +6,7 @@
 - ⚡ A passionate software development and promoting digital experiences.
 
 
-- 👨‍💻 All of my projects are available at [lava run](https://lavarun0.web.app/)
+- 👨‍💻 All of my projects are available at [lava run](https://lavarungame.web.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, FİREBASE, FLUTTER, Node.JS**
 
