@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="./hi.gif" width="30px" alt="Hi">, I'm Mustafa</h1>
+<h1 align="left">Hi <img src="./hi.gif" width="30px" alt="Hi">, I'm Mustafa Şahin</h1>
 <img src="./laptop.png" align="right" min-width="400em" max-width="400em" width="400em" alt="laptop"/>
 
 <br><br>
